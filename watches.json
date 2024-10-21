@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Apple Watch Series 78",
+        "price": 399
+    },
+    {
+        "name": "Samsung Galaxy Watch 6",
+        "price": 349
+    },
+    {
+        "name": "Fitbit Sense 2",
+        "price": 299
+    },
+    {
+        "name": "Garmin Venu 2",
+        "price": 399
+    },
+    {
+        "name": "Amazfit GTR 4",
+        "price": 199
+    }
+]
